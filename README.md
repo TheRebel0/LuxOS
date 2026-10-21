@@ -18,4 +18,5 @@ LuxOS is a lightweight 47MB operating system built for the Raspberry Pi 500+ (Pi
 4. Put SD in Pi 5/500 and power on
 
 That's it. No Balena Etcher, no IMG file.
+To get latest update just look in releases.
 
